@@ -1,5 +1,4 @@
 # Hydration Reminder App
-===================================
 
 The hydration reminder app, that keeps you reminded for the water consumption on a regular interval in minutes.
 
